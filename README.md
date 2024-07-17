@@ -35,7 +35,7 @@ Facial recognition is a technology capable of identifying or verifying a person 
 ```bash
 git clone https://github.com/hamzaabid016/Facial-recognition-using-knn.git
 cd Facial-recognition-using-knn
-
+```
 
 ### Install the requirements
 
